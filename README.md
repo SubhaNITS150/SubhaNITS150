@@ -125,11 +125,17 @@ A hackathon-born platform tackling **e-commerce waste at its root**: fraudulent/
 
 ## 🛠️ Skills Snapshot
 
-**Languages:** Python · JavaScript/TypeScript · SQL
-**Frontend:** React, Flutter, Vite
-**Backend:** Node.js, Express.js, FastAPI
-**Data & ML:** CatBoost, SHAP, WhisperX, GLiNER, NLP/CV pipelines
-**Infra & Data:** PostgreSQL, Supabase, Prisma, Apache Kafka, Docker, Redis/Feast (learning), Airflow/MLflow (learning)
+| Category | Skills |
+|---|---|
+| **Languages** | Python · JavaScript · TypeScript · SQL |
+| **Frontend** | React · Flutter · Vite |
+| **Backend** | Node.js · Express.js · FastAPI |
+| **Databases & ORM** | PostgreSQL · Supabase · Prisma |
+| **Messaging & Streaming** | Apache Kafka |
+| **AI / Machine Learning** | CatBoost · SHAP · WhisperX · GLiNER · LLM Integration · NLP · Computer Vision |
+| **DevOps & Tooling** | Docker · pnpm workspaces · Git/GitHub |
+| **Auth & Storage** | JWT · Cloudinary |
+| **Currently Learning (MLOps/Cloud)** | Apache Airflow · MLflow · Redis · Feast · Cloud Computing |
 
 ---
 
